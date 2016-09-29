@@ -1,0 +1,11 @@
+﻿  main.cpp
+c:\users\cheun\google drive\computer science\distance field ray marching\raymarching environment\raymarching environment\main.cpp(28): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\cheun\google drive\computer science\distance field ray marching\raymarching environment\raymarching environment\main.cpp(29): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\cheun\google drive\computer science\distance field ray marching\raymarching environment\raymarching environment\main.cpp(79): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\cheun\google drive\computer science\distance field ray marching\raymarching environment\raymarching environment\main.cpp(80): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\cheun\google drive\computer science\distance field ray marching\raymarching environment\raymarching environment\main.cpp(126): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+c:\users\cheun\google drive\computer science\distance field ray marching\raymarching environment\raymarching environment\main.cpp(149): warning C4244: 'argument': conversion from 'GLfloat' to 'GLsizei', possible loss of data
+c:\users\cheun\google drive\computer science\distance field ray marching\raymarching environment\raymarching environment\main.cpp(205): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\cheun\google drive\computer science\distance field ray marching\raymarching environment\raymarching environment\main.cpp(208): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  Raymarching Environment.vcxproj -> C:\Users\cheun\Google Drive\Computer Science\Distance Field Ray Marching\Raymarching Environment\Debug\Raymarching Environment.exe
+  Raymarching Environment.vcxproj -> C:\Users\cheun\Google Drive\Computer Science\Distance Field Ray Marching\Raymarching Environment\Debug\Raymarching Environment.pdb (Partial PDB)
